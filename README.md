@@ -35,3 +35,7 @@ To learn how to use JFrog IntelliJ IDEA plugin, please visit the [JFrog IntelliJ
 
 # Release Notes
 The release are available on [Bintray](https://bintray.com/jfrog/jfrog-jars/jfrog-idea-plugin#release).
+
+# idea插件效果。核心关注
+https://www.jfrog.com/confluence/download/attachments/102631321/idea-plugin-view-depedencies.png?version=1&modificationDate=1577958124000&api=v2
+
